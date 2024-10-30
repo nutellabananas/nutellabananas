@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...machine learning and cv
 - 📫 How to reach me ... email- nutellabanana17@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... my favorite kids movie is how to train your dragon, and my favorite overall movie is star wars V
+- ⚡ Fun fact: ... my favorite color is green
 
 <!---
 nutellabananas/nutellabananas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
